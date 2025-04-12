@@ -26,24 +26,29 @@ TASK 5- Create the `managers` table:
 
 # Code Screenshots and Table Structures
 ## TASK 1
-1. Employee Table
-- ![Image](https://github.com/user-attachments/assets/9d797229-c578-4a9d-9e41-9eec050611b9)
+### Employee Table
+- ![Image](https://github.com/Dtx-byte/Final-Lab-Task-1/blob/main/Images/Task%201.png)
+- ![Image](https://github.com/Dtx-byte/Final-Lab-Task-1/blob/main/Images/Task1%20Struc.png)
 
 ## TASK 2
-2. Department Table
-- ![Image](https://github.com/user-attachments/assets/3943d3ae-7b16-4ac8-9fcd-ea3a935107bf)
+### Department Table
+- ![Image](https://github.com/Dtx-byte/Final-Lab-Task-1/blob/main/Images/Task%202.png)
+- ![Image](https://github.com/Dtx-byte/Final-Lab-Task-1/blob/main/Images/Task2%20Struc.png)
 
 ## TASK 3
-3. Employee Department Table
-- ![Image](https://github.com/user-attachments/assets/7c0d9e00-be51-4f32-bf15-b47c1db7cfbe)
+### Employee Department Table
+- ![Image](https://github.com/Dtx-byte/Final-Lab-Task-1/blob/main/Images/Task%203.png)
+- ![Image](https://github.com/Dtx-byte/Final-Lab-Task-1/blob/main/Images/Task3%20Struc.png)
 
 ## TASK 4
-4. Employee Project Table
-- ![Image](https://github.com/user-attachments/assets/2065f412-b9f0-45f8-9bd7-bbe88298b244)
-
+### Employee Project Table
+- ![Image](https://github.com/Dtx-byte/Final-Lab-Task-1/blob/main/Images/Task%204.png)
+- ![Image](https://github.com/Dtx-byte/Final-Lab-Task-1/blob/main/Images/Task4%20Struc.png)
+  
 ## TASK 5
-5. Manager Table
-- ![Image](https://github.com/user-attachments/assets/11885937-bb10-4287-ada6-c3b0074dfd21)
+### Manager Table
+- ![Image](https://github.com/Dtx-byte/Final-Lab-Task-1/blob/main/Images/Task%205.png)
+- ![Image](https://github.com/Dtx-byte/Final-Lab-Task-1/blob/main/Images/Task5%20Struc.png)
 
 ## EER Diagram 
-- ![Image](https://github.com/user-attachments/assets/b8c42cda-fe0b-420f-92de-d9a7e531f3f3)
+- ![Image](https://github.com/Dtx-byte/Final-Lab-Task-1/blob/main/Images/CompanyDB%20ERD.png)
