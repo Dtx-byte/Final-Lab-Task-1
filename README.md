@@ -27,8 +27,9 @@ TASK 5- Create the `managers` table:
 # Code Screenshots and Table Structures
 ## TASK 1
 ### Employee Table
-- ![Image](https://github.com/Dtx-byte/Final-Lab-Task-1/blob/main/Images/Task%201.png)
-- ![Image](https://github.com/Dtx-byte/Final-Lab-Task-1/blob/main/Images/Task1%20Struc.png)
+  ![Image](https://raw.githubusercontent.com/Dtx-byte/Final-Lab-Task-1/refs/heads/main/Images/Task%201.png)
+  
+  ![Image](https://github.com/Dtx-byte/Final-Lab-Task-1/blob/main/Images/Task1%20Struc.png)
 
 ## TASK 2
 ### Department Table
