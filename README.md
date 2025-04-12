@@ -27,29 +27,33 @@ TASK 5- Create the `managers` table:
 # Code Screenshots and Table Structures
 ## TASK 1
 ### Employee Table
-  ![Image](https://raw.githubusercontent.com/Dtx-byte/Final-Lab-Task-1/refs/heads/main/Images/Task%201.png)
-  
-  ![Image](https://github.com/Dtx-byte/Final-Lab-Task-1/blob/main/Images/Task1%20Struc.png)
+![screenshot](Images/Task%201.png)
+
+![screenshot](Images/Task1%20Struc.png)
 
 ## TASK 2
 ### Department Table
-- ![Image](https://github.com/Dtx-byte/Final-Lab-Task-1/blob/main/Images/Task%202.png)
-- ![Image](https://github.com/Dtx-byte/Final-Lab-Task-1/blob/main/Images/Task2%20Struc.png)
+![screenshot](Images/Task%202.png)
+
+![screenshot](Images/Task2%20Struc.png)
 
 ## TASK 3
 ### Employee Department Table
-- ![Image](https://github.com/Dtx-byte/Final-Lab-Task-1/blob/main/Images/Task%203.png)
-- ![Image](https://github.com/Dtx-byte/Final-Lab-Task-1/blob/main/Images/Task3%20Struc.png)
+![screenshot](Images/Task%203.png)
+
+![screenshot](Images/Task3%20Struc.png)
 
 ## TASK 4
 ### Employee Project Table
-- ![Image](https://github.com/Dtx-byte/Final-Lab-Task-1/blob/main/Images/Task%204.png)
-- ![Image](https://github.com/Dtx-byte/Final-Lab-Task-1/blob/main/Images/Task4%20Struc.png)
+![screenshot](Images/Task%204.png)
+
+![screenshot](Images/Task4%20Struc.png)
   
 ## TASK 5
 ### Manager Table
-- ![Image](https://github.com/Dtx-byte/Final-Lab-Task-1/blob/main/Images/Task%205.png)
-- ![Image](https://github.com/Dtx-byte/Final-Lab-Task-1/blob/main/Images/Task5%20Struc.png)
+![screenshot](Images/Task%205.png)
+
+![screenshot](Images/Task5%20Struc.png)
 
 ## EER Diagram 
-- ![Image](https://github.com/Dtx-byte/Final-Lab-Task-1/blob/main/Images/CompanyDB%20ERD.png)
+![screenshot](Images/CompanyDB%20ERD.png)
